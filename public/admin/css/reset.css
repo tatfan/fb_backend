@@ -1,0 +1,110 @@
+body,h1,h2,h3,h4,h5 {
+    font-family: 微软雅黑;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.alert_title{
+    font-size: 16px;
+    padding: 0 50px;
+    line-height: 36px;
+}
+.tree .icon-plus[class*="icon-"]:first-child:before {
+    font-family: 微软雅黑;
+}
+.tag-input-style + .chosen-container-multi .chosen-choices li.search-choice {
+    background-color: #5090c1;
+}
+.left{
+    text-align: left;
+}
+th {
+    text-align: center;
+}
+.gritter-title {
+    font-size: 16px;
+}
+.gritter-item p{
+    font-family: 微软雅黑;
+    font-size: 14px;
+}
+.ui-jqgrid-bdiv{
+    overflow: hidden;
+    overflow-x: hidden;
+}
+#BgDiv {
+    background-color: #000;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 9990;
+}
+.wx-user-photo {
+    border: 2px solid #fff;
+    border-radius: 100%;
+    margin: 0;
+    max-width: 40px;
+}
+.table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td {
+    vertical-align: middle;
+}
+.hander{
+    cursor: pointer;
+}
+.table .dl-horizontal{
+    margin: 0;
+}
+.table .dl-horizontal dt{
+    width: 120px;
+}
+.table .dl-horizontal dd{
+    margin-left: 135px;
+}
+.nav-search .nav-search-input {
+    width: 200px;
+}
+
+.reply{
+    padding-left: 50px;
+}
+.reply > .user{
+    left: 50px;
+}
+#dashboard .row dt, #dashboard .row dd {
+    line-height: 24px;
+}
+.ml5{
+    margin-left: 5px;
+}
+.dd-list input.ace[type="checkbox"] + .lbl{
+    margin-bottom: 8px;
+}
+.normal{
+    font-weight: normal;
+}
+.page-content {
+    padding: 15px 20px 15px;
+}
+.ace-nav .nav-user-photo {
+    border: none;
+}
+.avatar_list img{
+    width: 90px;
+    height: 90px;
+    margin: 0 10px 10px 0;
+    border: 2px solid #fff;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.avatar_list img.active{
+    border: 2px solid #2679b5;
+}
+.dataTables_info {
+    font-size: 14px;
+    margin: 8px;
+}
